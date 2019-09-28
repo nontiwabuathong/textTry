@@ -1,4 +1,6 @@
 line 1 remote
 line 2 remote
+line 3 remote
+line 4 remote
 line 3 local
 line 4 local
