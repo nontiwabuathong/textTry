@@ -2,12 +2,16 @@ line 1 remote
 line 2 remote
 line 3 remote
 line 4 remote
+sline 5 remote
+sline 6 remote
 sline 5 local
 sline 6 local
 line 3 local
 line 4 local
 
 line 8 remote
+sline 11 remote
+sline 12 remote
 sline 11 local
 sline 12 local
 line 9 remote
